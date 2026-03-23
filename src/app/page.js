@@ -579,7 +579,7 @@ export default function PrivacyPolicyPage() {
                 </p>
                 <div className="flex flex-wrap gap-3">
                   <a
-                    href="mailto:privacy@tripzo.app"
+                    href="mailto:tripzo.support@gmail.com"
                     className="inline-flex items-center gap-2 px-5 py-3 rounded-xl text-sm font-semibold"
                     style={{
                       background: "linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%)",
